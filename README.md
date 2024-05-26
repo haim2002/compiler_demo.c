@@ -1,5 +1,5 @@
-the program works as a  compiler for assembly excluding the linking proccess 
+The program works as a  compiler for Assembly excluding the linking proccess 
 
-programing language : c
+Programming language : c
 
-platform : ubuntu
+Platform : Ubuntu
